@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+My name is Abraham and you can call me NovusOpus, I am a front-end developer and wannabe designer living in San Pedro Sula, Honduras.
+- 🌱 I’m currently learning
 <!--
 **NovusOpus/NovusOpus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
